@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 清淨觀世音普賢陀羅尼經
+#+DATE: 2015-08-30 20:28:31.108859
+#+PROPERTY: JUAN 0
